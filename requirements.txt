@@ -1,0 +1,11 @@
+tensorflow==2.1.0
+Flask==1.1.2
+gunicorn==19.7.1
+keras==2.3.1
+imutils==0.4.6
+opencv-python==3.4.2
+numpy==1.18.1
+h5py==2.8.0
+gevent==1.4.0
+gast==0.2.2
+Pillow==7.1.2
