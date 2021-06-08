@@ -8,4 +8,4 @@ numpy==1.18.1
 h5py==2.8.0
 gevent==1.4.0
 gast==0.2.2
-Pillow==7.1.2
+Pillow==8.2.0
